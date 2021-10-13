@@ -1,0 +1,26 @@
+<h1> SERVER CİHAN ÇELİK </h1>
+<h2>Sevdiğim Filmler</h2>
+<p>
+    Kingkong
+</p>
+<h2>1.Film </h2>
+<ol>
+    <li>Kingkong</li>
+    <li> Shawshank Redemption </li>
+    <li>Green Mile</li>
+
+</ol>
+<a href="https://www.imdb.com/title/tt0120689/" target =_blank>
+    Yeşil yol sayfasına gidecek.
+
+</a>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7sJod08-NS6ys0kQkwQfNo6KqFtVlwWxtA&usqp=CAU" alt="">
+
+<a href="https://kodluyoruz.org" target = "_blank">
+    kodluyoruz sayfasına gidilecek
+</a>
+
+<br>
+<a href="iletisim.html">
+    İletisim Sayfasina Git
